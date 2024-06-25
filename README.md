@@ -9,7 +9,6 @@
 - [Usage](#usage)
 - [Supported Sorting Algorithms](#supported-sorting-algorithms)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
