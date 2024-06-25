@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DAAProject", "DAAProject\DAAProject.vcxproj", "{B0832D6F-FBEB-4878-B78D-609E59596A3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0832D6F-FBEB-4878-B78D-609E59596A3B}.Debug|x64.ActiveCfg = Debug|x64
+		{B0832D6F-FBEB-4878-B78D-609E59596A3B}.Debug|x64.Build.0 = Debug|x64
+		{B0832D6F-FBEB-4878-B78D-609E59596A3B}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0832D6F-FBEB-4878-B78D-609E59596A3B}.Debug|x86.Build.0 = Debug|Win32
+		{B0832D6F-FBEB-4878-B78D-609E59596A3B}.Release|x64.ActiveCfg = Release|x64
+		{B0832D6F-FBEB-4878-B78D-609E59596A3B}.Release|x64.Build.0 = Release|x64
+		{B0832D6F-FBEB-4878-B78D-609E59596A3B}.Release|x86.ActiveCfg = Release|Win32
+		{B0832D6F-FBEB-4878-B78D-609E59596A3B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68610B86-8CEC-45B3-B1D3-E6B36D9A5D9C}
+	EndGlobalSection
+EndGlobal
